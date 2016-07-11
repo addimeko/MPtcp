@@ -1,6 +1,4 @@
-# MPtcp
-coming soon
-This is my ongoing thesis work
+Multiple path TCP solutions   in the Linux kernel
 
 Though the potential benfites of multiple path TCP, there are some considerable challenges towards scalable deployment and adoption.
 
